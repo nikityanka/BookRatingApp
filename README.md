@@ -81,7 +81,7 @@
 
 1. **Запустите установщик программы**:
    - Скачайте установочный файл с [Releases](https://github.com/nikityanka/BookRatingApp/releases/tag/release)
-   - Запустите `BookRatingApp.Setup.exe`
+   - Запустите файл `Setup.exe`
    - Следуйте инструкциям мастера установки
 
 2. **Запустите приложение**:
